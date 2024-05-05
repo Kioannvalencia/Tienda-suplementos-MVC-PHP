@@ -63,13 +63,16 @@ El sistema de punto de venta basado en MVC surge como respuesta a estas necesida
   
   ![image](https://github.com/Kioannvalencia/Tienda-suplementos-MVC-PHP/assets/167829988/72c08bc9-6f35-4fe8-8584-279c0272cf1b)
   
-  ![image](https://github.com/Kioannvalencia/Tienda-suplementos-MVC-PHP/assets/167829988/f570edb2-b1b1-417b-a4fd-861a51b925b7)
+  ![image](https://github.com/Kioannvalencia/Tienda-suplementos-MVC-PHP/assets/167829988/35a1a315-1fff-4b2c-83eb-101941e68d4b)
+
 
 - Paso 3:
   copiar la carpeta extraida "Tienda-suplementos-MVC-PHP-main" en la carpeta de xampp ( guiate por la siguiente direccion que se muestra en la imagen)
 
   ![image](https://github.com/Kioannvalencia/Tienda-suplementos-MVC-PHP/assets/167829988/5953bef6-996f-4bcc-9493-1370429de015)
 
+- Paso 4: 
+  en tu navegador copia la siguiente direccion <a http://localhost/Tienda-suplementos-MVC-PHP-main/ a/>
   
   
   
