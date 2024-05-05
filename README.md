@@ -71,8 +71,15 @@ El sistema de punto de venta basado en MVC surge como respuesta a estas necesida
 
   ![image](https://github.com/Kioannvalencia/Tienda-suplementos-MVC-PHP/assets/167829988/5953bef6-996f-4bcc-9493-1370429de015)
 
+- Paso 4: abre tu PHPMyadmind con la siguiente direccion  en tu navegador http://localhost/phpmyadmin/index.php?route=/server/databases, crea una nueva vase de datos con el nombre de             "tienda" junto con la configuracion que se muestra en la imagen.
+  
+  ![image](https://github.com/Kioannvalencia/Tienda-suplementos-MVC-PHP/assets/167829988/051ce94a-d633-4063-b099-2ab4a9f12b42)
+
+  
+
+
 - Paso 4: 
-  en tu navegador copia la siguiente direccion <a http://localhost/Tienda-suplementos-MVC-PHP-main/ a/>
+  en tu navegador copia la siguiente direccion http://localhost/Tienda-suplementos-MVC-PHP-main/
   
   
   
