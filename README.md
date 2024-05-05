@@ -73,13 +73,42 @@ El alcance del proyecto incluirá el diseño, desarrollo e implementación del s
 ## CUERPO/ DESARROLLO
 
 ### ORDEN MVC
-![Orden MVC]![image](https://github.com/Kioannvalencia/Tienda-suplementos-MVC-PHP/assets/167829988/e2cd8183-d116-4910-8523-6be911c4f306)
-
+![image](https://github.com/Kioannvalencia/Tienda-suplementos-MVC-PHP/assets/167829988/ca503574-7ef4-418f-9572-e6fa1a4c7669)
 
 ### INDEX
 En nuestro index va a ser el principal, ya que este manda a traer a los controladores y a los demás archivos:
-```php
-$accionTmp(); ` `} ?>
+![image](https://github.com/Kioannvalencia/Tienda-suplementos-MVC-PHP/assets/167829988/887932cd-7783-4822-9fe8-a9773fe3d5ea)
 
+En esta parte veremos el código en donde manda a traer todos los archivos:
+![image](https://github.com/Kioannvalencia/Tienda-suplementos-MVC-PHP/assets/167829988/579c429d-9c4b-44a2-8b70-da661003a2f1)
+
+## MODELO
+El modelo representa la lógica de negocio y los datos subyacentes de la aplicación.
+
+## VISTA
+Es la interfaz de usuario que presenta la información al usuario final, ya que en esta carpeta se muestran todos los archivos que son las vistas:
+
+## CONTROLADOR
+Actúa como intermediario entre el modelo y la vista. Es responsable de recibir las solicitudes del usuario desde la vista, procesarlas utilizando la lógica de negocio apropiada en el modelo y actualizar la vista en consecuencia, como se puede ver a continuación:
+
+## ASSETS
+En los assets encontraremos los JS y los estilos CSS que son los que le van a a dar la forma y funciones a nuestro sistema.
+- JS
+- CSS
+
+## CONFIG
+En esta carpeta tenemos nuestra conexión a nuestra base de datos
+
+## DIAGRAMAS
+
+## CONCLUSIONES
+En resumen, el proyecto de punto de venta implementado con el patrón de arquitectura Modelo-Vista-Controlador (MVC) resultó ser una elección acertada. La división clara entre la lógica de negocio, la presentación y el control del flujo de la aplicación facilitó su desarrollo, mantenimiento y escalabilidad.
+
+## BIBLIOGRAFÍA
+- Victor. (2019, 3 abril). [MVC (Modelo Vista Controlador) en PHP nativo](https://victorroblesweb.es/2013/11/18/tutorial-mvc-en-php-nativo/). Victor Robles.
+- Rincón, J. G. (s. f.). [Jairo García Rincón](https://www.jairogarciarincon.com/clase/programacion-orientada-a-objetos-en-php/patron-mvc).
+- Redactor. (2022, 10 febrero). [Modelo vista controlador (MVC) en PHP [Actualizado 2022]](https://www.adaweb.es/modelo-vista-controlador-mvc-en-php-actualizado-2022/) - Adaweb. Adaweb.
+- [Designlopers | Plantillas web gratis | sistemas web gratis](https://designlopers.com/post/Mi-primer-sistema-PHP-y-MVC/#!)
+- [Free Course: CURSO de PHP & MVC: Mi primer SISTEMA [PHP, MVC, POO, MYSQL] from Udemy | Class Central](https://www.classcentral.com/course/udemy-mi-primer-sistema-php-mvc-mysql-69592). Class Central.
 
 
