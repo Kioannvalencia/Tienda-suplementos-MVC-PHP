@@ -55,10 +55,22 @@ El sistema de punto de venta basado en MVC surge como respuesta a estas necesida
 ## INSTALACIÓN
 - Paso 1:
   Ejecutar Xampp y activar Apache y MySQL
+  
   ![image](https://github.com/Kioannvalencia/Tienda-suplementos-MVC-PHP/assets/167829988/5bdc46e7-bae6-41a2-8b36-c97a64dd9038)2:
 
 - Paso 2:
-  Extraer y copiar la carpeta del proyecto.
+  Extraer la carpeta del proyecto.
+  
+  ![image](https://github.com/Kioannvalencia/Tienda-suplementos-MVC-PHP/assets/167829988/72c08bc9-6f35-4fe8-8584-279c0272cf1b)
+  
+  ![image](https://github.com/Kioannvalencia/Tienda-suplementos-MVC-PHP/assets/167829988/f570edb2-b1b1-417b-a4fd-861a51b925b7)
+
+- Paso 3:
+  copiar la carpeta extraida "Tienda-suplementos-MVC-PHP-main" en la carpeta de xampp ( guiate por la siguiente direccion que se muestra en la imagen)
+
+  ![image](https://github.com/Kioannvalencia/Tienda-suplementos-MVC-PHP/assets/167829988/5953bef6-996f-4bcc-9493-1370429de015)
+
+  
   
   
 
