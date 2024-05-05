@@ -1,21 +1,3 @@
-0# 🛒 STO (Sistema Tienda Online)
-Sistema de TIENDA en ONLINE desarrollada con tecnologías PHP, MVC, MySQL, JS, AJAX &amp; MDB 5
-
-# ⚠️ ¡IMPORTANTE! ⚠️
-<p>
-Este proyecto actualmente se encuentra en desarrollo aún no está finalizado, suscríbete a mi canal para estar pendiente de las nuevas actualizaciones
-</p>
-
-# ▶️ INSTALACIÓN
-<a href="https://youtu.be/NsvESL1lvpY" target="_blank">Ver video en YouTube</a>
-
-# ⏱️ ACTUALIZACIONES DEL SISTEMA
-✔️ <a href="https://youtu.be/qULhGDd6Ll4" target="_blank">Ver actualizaciones Junio 2021</a>
-
-✔️ <a href="https://youtu.be/HsMLg56eKf0" target="_blank">Ver actualizaciones Abril 2021</a>
-
-✔️ <a href="https://youtu.be/ZWYsTkeXZEA" target="_blank">Ver actualizaciones Marzo 2021</a>  
-
 # Kioann Valencia Santibañez
 ## 191064129
 ### Cordero Ocampo Martin
@@ -45,7 +27,7 @@ Este proyecto actualmente se encuentra en desarrollo aún no está finalizado, s
 - [BIBLIOGRAFÍA](#bibliografía)
 
 ## RESUMEN
-El Modelo-Vista-Controlador (MVC) es un patrón arquitectónico ampliamente utilizado en el desarrollo de software, que busca estructurar las aplicaciones de una manera clara y organizada. Este enfoque divide una aplicación en tres componentes principales: el modelo, la vista y el controlador. Cada uno de estos componentes tiene un rol específico en el funcionamiento y la presentación de la aplicación, lo que permite una mejor organización del código y una mayor facilidad para el mantenimiento y la escalabilidad.
+<p>El Modelo-Vista-Controlador (MVC) es un patrón arquitectónico ampliamente utilizado en el desarrollo de software, que busca estructurar las aplicaciones de una manera clara y organizada. Este enfoque divide una aplicación en tres componentes principales: el modelo, la vista y el controlador. Cada uno de estos componentes tiene un rol específico en el funcionamiento y la presentación de la aplicación, lo que permite una mejor organización del código y una mayor facilidad para el mantenimiento y la escalabilidad.</p>
 
 El modelo representa la lógica de negocio y los datos subyacentes de la aplicación. Es responsable de la manipulación y gestión de los datos, así como de la implementación de la lógica de negocio. Por ejemplo, en una aplicación de gestión de usuarios, el modelo podría incluir clases y métodos para crear, actualizar, eliminar y recuperar usuarios de una base de datos.
 
