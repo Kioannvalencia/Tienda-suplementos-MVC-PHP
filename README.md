@@ -73,7 +73,8 @@ El alcance del proyecto incluirá el diseño, desarrollo e implementación del s
 ## CUERPO/ DESARROLLO
 
 ### ORDEN MVC
-![Orden MVC](ruta/a/imagen.png)
+![Orden MVC]![image](https://github.com/Kioannvalencia/Tienda-suplementos-MVC-PHP/assets/167829988/e2cd8183-d116-4910-8523-6be911c4f306)
+
 
 ### INDEX
 En nuestro index va a ser el principal, ya que este manda a traer a los controladores y a los demás archivos:
