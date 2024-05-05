@@ -75,16 +75,14 @@ El sistema de punto de venta basado en MVC surge como respuesta a estas necesida
   
   ![image](https://github.com/Kioannvalencia/Tienda-suplementos-MVC-PHP/assets/167829988/051ce94a-d633-4063-b099-2ab4a9f12b42)
 
-  
+- Paso 5: una vez creada la base de datos importa la base de datos en el apartado de importar, selecciona el archivo "sto" que esta en la carpeta del proyecto anteriormente copiada en la carpeta htdocs de xampp
 
+  ![image](https://github.com/Kioannvalencia/Tienda-suplementos-MVC-PHP/assets/167829988/4344e7e6-3f1e-4f99-a09a-5cdf19c9eb54)
 
-- Paso 4: 
+- Paso 6: 
   en tu navegador copia la siguiente direccion http://localhost/Tienda-suplementos-MVC-PHP-main/
   
   
-  
-
-
 ### Objetivos del Proyecto
 
 Desarrollar un sistema de punto de venta robusto y fácil de usar, que permita a los minoristas gestionar de manera eficiente todas las actividades relacionadas con la venta y el control de inventario. Entre los objetivos específicos se incluyen:
