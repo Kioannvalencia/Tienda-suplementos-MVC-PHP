@@ -52,7 +52,7 @@ Los establecimientos minoristas enfrentan una serie de desafíos operativos y de
 
 El sistema de punto de venta basado en MVC surge como respuesta a estas necesidades, ofreciendo una plataforma integral y escalable que abarca todas las facetas de la operación minorista. Desde la gestión de inventario hasta el procesamiento de pagos y la generación de informes analíticos, el sistema está diseñado para mejorar la eficiencia operativa, reducir los errores y optimizar la experiencia del cliente.
 
-##INSTALACIÓN
+## INSTALACIÓN
 - Paso 1:
   Ejecutar Xampp y activar Apache y MySQL
   ![image](https://github.com/Kioannvalencia/Tienda-suplementos-MVC-PHP/assets/167829988/5bdc46e7-bae6-41a2-8b36-c97a64dd9038)2:
